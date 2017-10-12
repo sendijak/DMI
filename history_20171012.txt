@@ -1,0 +1,49 @@
+    1  VirtualBox --startvm XP
+    2  firefox
+    3  git clone https://github.com/sendijak/DMI.git
+    4  ls -l
+    5  nano
+    6  pwd
+    7  cd DMI
+    8  nano
+    9  nano shell_relational_operators_comments.sh
+   10  ls -l
+   11  shell-relational-operators_comments.sh
+   12  ./shell-relational-operators-comments.sh
+   13  ls -la
+   14  .shell_relational_operators_comments.sh
+   15  ls -la
+   16  ./shell_relational_operators_comments.sh
+   17  ls -la
+   18  nano
+   19  ./shell_relational_operators_comments.sh
+   20  chmod 744 shell_relational_operators_comments.sh
+   21  nano
+   22  ls -la
+   23  echo $PATH
+   24  nano shell_relational_operators_comments.sh
+   25  ./shell_relational_operators_comments.sh
+   26  nano shell_relational_operators_comments.sh
+   27  ./shell_relational_operators_comments.sh
+   28  nano shell_relational_operators_comments.sh
+   29  ./shell_relational_operators_comments.sh
+   30  nano shell_relational_operators_comments.sh
+   31  ./shell_relational_operators_comments.sh
+   32  nano shell_relational_operators_comments.sh
+   33  ./shell_relational_operators_comments.sh
+   34  nano shell_relational_operators_comments.sh
+   35  ./shell_relational_operators_comments.sh
+   36  nano shell_relational_operators_comments.sh
+   37  ./shell_relational_operators_comments.sh
+   38  nano shell_relational_operators_comments.sh
+   39  ./shell_relational_operators_comments.sh
+   40  nano shell_relational_operators_comments.sh
+   41  ./shell_relational_operators_comments.sh
+   42  nano shell_relational_operators_comments.sh
+   43  ./shell_relational_operators_comments.sh
+   44  nano shell_relational_operators_comments.sh
+   45  ./shell_relational_operators_comments.sh
+   46  nano shell_relational_operators_comments.sh
+   47  ./shell_relational_operators_comments.sh
+   48  nano git-upload
+   49  history > history_20171012.txt
