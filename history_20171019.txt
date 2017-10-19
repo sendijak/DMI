@@ -1,0 +1,252 @@
+    1  VirtualBox --startvm XP
+    2  firefox $
+    3  firefox &
+    4  clear
+    5  git download
+    6  git clone
+    7  git clone https://github.com/patatemz/DMI
+    8  cd DMI
+    9  PATH=$PATH ./DMI
+   10  PATH=$PATH ~/DMI
+   11  PATH=$PATH:~/DMI
+   12  nano temp
+   13  tutorialspoint 
+   14  nano lielaks
+   15  chmod 774 lielaks
+   16  lielaks
+   17  nano lielaks
+   18  lielaks
+   19  nano lielaks
+   20  lielaks
+   21  nano lielaks
+   22  lielaks
+   23  nano lielaks
+   24  lielaks
+   25  nano lielaks
+   26  lielaks
+   27  nano lielaks
+   28  lielaks
+   29  nano lielaks
+   30  lielaks
+   31  nano lielaks
+   32  lielaks
+   33  nano lielaks
+   34  leilaks
+   35  nano lielaks
+   36  lielaks
+   37  nano lielaks
+   38  lielaks
+   39  nano lielaks
+   40  lielaks
+   41  nano lielaks
+   42  lielaks
+   43  nano lielaks
+   44  lielaks
+   45  nano lielaks
+   46  lielaks
+   47  nano lielaks
+   48  lielaks
+   49  nano lielaks
+   50  lielaks
+   51  nano lielaks
+   52  lielaks
+   53  nano lielaks
+   54  lielaks 
+   55  2
+   56  lielaks 
+   57  nano lielaks 
+   58  lielaks
+   59  nano lielaks 
+   60  lielaks
+   61  nano lielaks 
+   62  lielaks
+   63  nano lielaks 
+   64  lielaks
+   65  nano lielaks 
+   66  lielaks
+   67  nano lielaks 
+   68  lielaks
+   69  nano lielaks
+   70  lielaks
+   71  nano lielaks
+   72  lielaks
+   73  nano lielaks
+   74  leilaks
+   75  lielaks
+   76  nano lielaks
+   77  lielaks
+   78  nano lielaks
+   79  lielaks
+   80  nano lielaks
+   81  lielaks
+   82  nano lielaks
+   83  lielaks
+   84  nano lielaks
+   85  lielaks
+   86  nano lielaks
+   87  lielaks
+   88  nano lielaks
+   89  lielaks
+   90  nano lielaks
+   91  lielaks
+   92  nano lielaks
+   93  lielaks
+   94  nano lielaks
+   95  lielaks
+   96  nano lielaks
+   97  lielaks
+   98  nano lielanks
+   99  nano lielaks
+  100  lielaks
+  101  nano lielaks
+  102  lielaks
+  103  nano lielaks
+  104  lielaks
+  105  nano lielaks
+  106  lielaks
+  107  nano lielaks
+  108  lielaks
+  109  nano lielaks
+  110  nano
+  111  lielaks
+  112  nano lielaks
+  113  lielaks
+  114  nano lielaks
+  115  lielaks
+  116  nano lielaks
+  117  lielaks
+  118  nano lielaks
+  119  lielaks
+  120  nano lielaks
+  121  lielaks
+  122  nano lielaks
+  123  lielaks
+  124  nano lielaks
+  125  lielaks
+  126  nano lielaks
+  127  lielaks
+  128  nano lielaks
+  129  lielaks
+  130  nano lielaks
+  131  lielaks
+  132  nano lielaks
+  133  lielaks
+  134  nano lielaks
+  135  lielaks
+  136  nano lielaks
+  137  lielaks
+  138  nano lielaks
+  139  lielaks
+  140  nano lielaks
+  141  lielaks
+  142  nano lielaks
+  143  lielaks
+  144  nano lielaks
+  145  leilaks
+  146  lielaks
+  147  nano lielaks
+  148  lielaks
+  149  echo lielaks
+  150  lielaks
+  151  nano lielaks
+  152  lielaks
+  153  nano lielaks
+  154  lielaks
+  155  nano lielaks
+  156  lielaks
+  157  nano lielaks
+  158  lielaks
+  159  nano lielaks
+  160  lielaks
+  161  nano lielaks
+  162  lielaks
+  163  nano lielaks
+  164  lielaks
+  165  nano lielaks
+  166  lielaks
+  167  nano lielaks
+  168  lielaks
+  169  nano lielaks
+  170  lielaks\
+  171  lielaks
+  172  nano lielaks
+  173  lielaks
+  174  nano lielaks
+  175  lielaks
+  176  nano lielaks
+  177  history > history20171019_11_25.txt
+  178  ls -l
+  179  git-upload
+  180  git-upload 20171019_11_25
+  181  nano statistika
+  182  chmod 774 statistika
+  183  nano statistika
+  184  statistika
+  185  statistika 3 4 5
+  186  statistika
+  187  nano statistika
+  188  statistika 1 2 3 4
+  189  nano statistika
+  190  statistika 1 2 3 4
+  191  nano statistika
+  192  statistika 1 2 3 4
+  193  nano statistika
+  194  statistika 1 2 3
+  195  nano statistika
+  196  statistika 1 2 3
+  197  gi-upload 
+  198  git-upload
+  199  git-upload 20171019_11_45
+  200  firefox &
+  201  git clone https://github.com/sendijak/DMI.git
+  202  pwd
+  203  ls -l
+  204  cd  DMI
+  205  pwd
+  206  nano dialogs.sh
+  207  cat dialogs.sh
+  208  chmod 744 dialogs.sh
+  209  ./dialogs.sh
+  210  nano dialogs.sh
+  211  ./dialogs.sh
+  212  nano dialogs.sh
+  213  ./dialogs.sh
+  214  nano dialogs.sh
+  215  cp dialogs.sh a_VS_b.sh
+  216  ls -l
+  217  nano a_VS_b.sh 
+  218  ls -l
+  219  ./a_VS_b.sh 
+  220  nano a_VS_b.sh 
+  221  ./a_VS_b.sh 
+  222  nano a_VS_b.sh 
+  223  ./a_VS_b.sh 
+  224  nano a_VS_b.sh 
+  225  ./a_VS_b.sh 
+  226  nano a_VS_b.sh 
+  227  1
+  228  ./a_VS_b.sh 
+  229  nano a_VS_b.sh 
+  230  1
+  231  ./a_VS_b.sh 
+  232  nano a_VS_b.sh 
+  233  ./a_VS_b.sh 
+  234  nano a_VS_b.sh 
+  235  cp a_VS_b.sh a_VS_b_VS_c.sh
+  236  nano a_VS_b_VS_c.sh
+  237  ./a_VS_b.sh 
+  238  nano a_VS_b_VS_c.sh
+  239  ./a_VS_b.sh 
+  240  2
+  241  ./a_VS_b.sh 
+  242  nano a_VS_b_VS_c.sh
+  243  ./a_VS_b.sh 
+  244  nano a_VS_b_VS_c.sh
+  245  ./a_VS_b.sh 
+  246  nano a_VS_b_VS_c.sh
+  247  ./a_VS_b_VS_c.sh 
+  248  1
+  249  ./a_VS_b_VS_c.sh 
+  250  nano a_VS_b_VS_c.sh
+  251  nano git-upload
+  252  history > history_20171019.txt
