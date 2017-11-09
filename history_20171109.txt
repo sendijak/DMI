@@ -1,0 +1,109 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/sendijak/DMI.git
+    3  ls- l
+    4  ls -l
+    5  cd DMI
+    6  mkdir PYTHON
+    7  cd PYTHON
+    8  nano hello.py
+    9  whereis python
+   10  nano hello.py
+   11  ./hello.py
+   12  chmod 744
+   13  chmod 744 hello.py
+   14  ./hello.py
+   15  nano hello.py
+   16  ./hello.py
+   17  nano hello.py
+   18  ./hello.py
+   19  nano hello.py
+   20  ./hello.py
+   21  nano hello.py
+   22  ./hello.py
+   23  nano hello.py
+   24  ./hello.py
+   25  nano hello.py
+   26  ./hello.py
+   27  nano hello.py
+   28  ./hello.py
+   29  nano hello.py
+   30  ./hello.py
+   31  nano hello.py
+   32  ./hello.py
+   33  nano hello.py
+   34  ./hello.py
+   35  nano hello.py
+   36  ./hello.py
+   37  nano hello.py
+   38  ./hello.py
+   39  nano hello.py
+   40  ./hello.py
+   41  nano hello.py
+   42  ./hello.py
+   43  nano hello.py
+   44  ./hello.py
+   45  nano hello.py
+   46  ./hello.py
+   47  nano hello.py
+   48  ./hello.py
+   49  nano hello.py
+   50  ./hello.py
+   51  nano hello.py
+   52  ./hello.py
+   53  nano hello.py
+   54  ./hello.py
+   55  nano hello.py
+   56  ./hello.py
+   57  nano hello.py
+   58  ./hello.py
+   59  nano hello.py
+   60  ./hello.py
+   61  nano hello.py
+   62  ./hello.py
+   63  nano hello.py
+   64  ./hello.py
+   65  nano hello.py
+   66  ./hello.py
+   67  nano hello.py
+   68  ./hello.py
+   69  nano hello.py
+   70  ./hello.py
+   71  nano hello.py
+   72  nano dzejolis.py
+   73  chmod dzejolis.py
+   74  nano hello.py
+   75  ./hello.py
+   76  nano hello.py
+   77  ./hello.py
+   78  nano hello.py
+   79  ./hello.py
+   80  nano hello.py
+   81  ./hello.py
+   82  nano hello.py
+   83  ./hello.py
+   84  nano variables.py
+   85  chmod 744 variables.py
+   86  ./variables.py
+   87  cat variables.py
+   88  ./variables.py
+   89  chmod 744 variables.py
+   90  ./variables.py
+   91  cat variables.py
+   92  ./variables.py
+   93  nano variables.py
+   94  ./variables.py
+   95  nano variables.py
+   96  ./variables.py
+   97  nano variables.py
+   98  ./variables.py
+   99  nano variables.py
+  100  cd..
+  101  cd ..
+  102  cd DMI
+  103  history > history20171109_17_20
+  104  history > history20171109_17_20.txt
+  105  ls -l
+  106  git-upload 20171109_17_20
+  107  git-upload
+  108  nano git-upload
+  109  history > history_20171109.txt
