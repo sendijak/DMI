@@ -2,5 +2,5 @@
 
 git config --global user.email sendijak@inbox.lv
 git add .
-git commit -m "20171109_17_30"
+git commit -m "20171123_17_20"
 git push origin master

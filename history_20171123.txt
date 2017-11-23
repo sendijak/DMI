@@ -1,0 +1,21 @@
+    1  VirtualBox --startvm XP
+    2  su sc
+    3  exit
+    4  idle
+    5  exit
+    6  git clone https://github.com/sendijak/DMI.git
+    7  cd DMI
+    8  cd .. DMI
+    9  cd PYTHON
+   10  cd DMI
+   11  cd PYTHON
+   12  pwd
+   13  idle &
+   14  nano
+   15  idle &
+   16  cd ..
+   17  pwd
+   18  ls -la
+   19  ls -lt PYTHON/
+   20  hostory > history_20171123.txt
+   21  history > history_20171123.txt
